@@ -30,9 +30,9 @@ cover-$account_name.png
 9. 收到你的PR,如果信息没什么问题,我们会尽快处理然后合并到master分支中
 
 
-## Images design
-- logo size: 180x180 png
-- cover size: 1125x420 png
+## 图片规格
+- logo尺寸: 180x180 png
+- 封面尺寸: 1125x420 png
 
 ![example](tutorial/image_example.jpg)
 
