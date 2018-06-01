@@ -39,4 +39,4 @@ cover-$account_name.png
 
 ## Copyright
 
-2018&copy;imToken PTE. LTD.
+2018&copy;OneChain.
