@@ -1,5 +1,7 @@
 # EOS BP Profile
 
+[点击查看中文](./README-cn.md)
+
 
 The purpose of the repo is to make users know more about EOS block producer info. BP info display example: 
 
