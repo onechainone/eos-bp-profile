@@ -1,36 +1,36 @@
-# EOS BP 配置
+# EOS BP Profile
 
-[English](./README.md)
+[点击查看中文](./README_cn.md)
 
 
-这个仓库的目的是为了让更多的用户了解EOS区块生产者的信息(BP)。BP信息展示如下：
+The purpose of the repo is to make users know more about EOS block producer info. BP info display example: 
 
 ![example](tutorial/eos_bp_profile.jpg)
 
-## 提交步驟
+## How to contribute
 
-1. 将这个仓库fork到你的GitHub账户中
-2. fork完之后,在你的GitHub账户下克隆到本地。（注意: 不要从onechain的仓库中克隆）
+1. Fork the repo to your account
+2. Clone the repo from your own account, rather than the origin one
 ```
 git clone git@github.com:xxxxxxxx/eos-bp-profile.git
 ```
-3. 使用你的bp账户名创建并切换到一个新的分支中
-4. 添加一个新的以你的EOS bp账户名的json文件到`bp`这个文件夹中
+3. Create and switch to a new branch named by your bp account name
+4. Add a new json file to the `bp` directory, which named by the EOS bp account name, for example:  
 ```
 imtoken.json
 ```
-5. 按照[$template.json](./bp/$template.json)的结构填写信息
-7. 添加你的bp账户的logo到`images`文件夹中
+5. Fulfill the content by following the schema of [$template.json](./bp/$template.json)
+6. Add the bp logo and cover to `images` directory, which named by the EOS bp account name, for example:  
 ```
 logo-$account_name.png
 cover-$account_name.png
 ```
-7. 提交你的仓库
-8. 提交带有详细信息的PR
-9. 收到你的PR,如果信息没什么问题,我们会尽快处理然后合并到master分支中
+7. Push to your own repo
+8. Make a pull request with detailed description
+9. We will review your PR as soon as possible, and then merge it into the master branch when everything is fine
 
 
-## Images design
+## Images design 
 - logo size: 180x180 png
 - cover size: 1125x420 png
 
@@ -39,4 +39,4 @@ cover-$account_name.png
 
 ## Copyright
 
-2018&copy;OneChain
+2018&copy;OneChain.
