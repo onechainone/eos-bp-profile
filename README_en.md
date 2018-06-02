@@ -15,7 +15,7 @@ git clone git@github.com:xxxxxxxx/eos-bp-profile.git
 3. Create and switch to a new branch named by your bp account name
 4. Add a new json file to the `bp` directory, which named by the EOS bp account name, for example:  
 ```
-imtoken.json
+onechain.json
 ```
 5. Fulfill the content by following the schema of [$template.json](./bp/$template.json)
 6. Push to your own repo
