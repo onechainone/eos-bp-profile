@@ -15,7 +15,7 @@ git clone git@github.com:xxxxxxxx/eos-bp-profile.git
 3. 使用你的bp账户名创建并切换到一个新的分支中
 4. 添加一个新的以你的EOS bp账户名的json文件到`bp`这个文件夹中
 ```
-imtoken.json
+onechain.json
 ```
 5. 按照[$template.json](./bp/$template.json)的结构填写信息
 6. 提交你的仓库
