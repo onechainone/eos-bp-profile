@@ -10,13 +10,13 @@
   "public_key": "EOS8PkNNBYU1xnbcjBUNm1mT6N68QiGvCDgPT97rqurLBEjDanSXK",
   "org": {
     "name": "EOS Nation",
-    "website": "http://www.eosnation.io",
+    "website": "http://eosnation.io",
     "email": "info@eosnation.io",
     "branding":{
-      "logo": "logo-EOSNation.png",
-      "cover": "cover-EOSNation.png"
+      "logo": "https://raw.githubusercontent.com/EOS-Nation/Logos/master/eosnation/eosnation-1x1-black.png",
+      "cover": "https://raw.githubusercontent.com/EOS-Nation/Logos/master/eosnation/eosnation-banner-text.png"
     },
-    "location": "Montreal, Canada",
+    "location": "Toronto, Canada",
     "social_network": {
       "steemit": "https://steemit.com/@eosnation,
       "twitter": "https://twitter.com/EOS_Nation",
