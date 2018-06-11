@@ -1,0 +1,38 @@
+{
+  "title": "EOS Romania 22",
+  "tagline": {
+    "en": "One for all, and all for one"
+  },
+  "introduce": {
+    "en": "I always loved that saying, from the first time when the Three Musketeers story made me aware of  it; since then I got to learn and experience it over and over again. Be there for all and then all we'll be there for you when needed, be a team player and the team will be there behind you when the time will require it. I am putting together a BP and run it to support EOS blockchain and be part of the team, be part of All. I vouch to respect EOS principles and constitution, the block producer agreement and to be as opened as possible where the funds will be used: costs of running the network (hardware and staff), upgrades and if there will be anything left donations to non-profit organizations that feed or cure children around the world. Everything will be public and it will also be voted by the community. One for all, and all for one, EOS Romania 22"
+  },
+  "account_name": "eosromania22",
+  "public_key": "EOS8PkNNBYU1xnbcjBUNm1mT6N68QiGvCDgPT97rqurLBEjDanSXK",
+  "org": {
+    "name": "EOS Romania 22",
+    "website": "https://www.facebook.com/EOSro",
+    "email": "eosroffice@gmail.com",
+    "branding": {
+      "logo": "https://raw.githubusercontent.com/oviwankenobi/eos/master/EOSro_logo_300x300.png",
+      "cover": "https://raw.githubusercontent.com/oviwankenobi/eos/master/EOSro_lanscape.png"
+    },
+    "location": "Sibiu, Romania",
+    "social_network": {
+      "facebook": "https://www.facebook.com/EOSro",
+      "telegram": "https://t.me/EOSRO",
+      "steemit": "https://steemit.com/@unus"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "",
+        "name": ""
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
