@@ -1,0 +1,46 @@
+{
+  "producer_account_name": "eosecoeoseco",
+  "producer_public_key": "EOS57oitM7gnt9aU2eWCDrSzw4C9x3ez8nXE24mnVfZAD3EqPhFXf",
+  "org": {
+    "candidate_name": "EOSeco",
+    "website": "https://eoseco.com",
+    "code_of_conduct": "",
+    "email": "support@eoseco.net",
+    "branding": {
+      "logo_256": "https://eoseco.com/bp/logo_256.png",
+      "logo_1024": "https://eoseco.com/bp/logo_1024.png",
+      "logo_svg": "https://eoseco.com/bp/logo.svg"
+    },
+    "location": {
+      "name": "Shanghai",
+      "country": "China",
+      "latitude": 31.22,
+      "longitude": 121.48
+    },
+    "social": {
+      "steemit": "https://steemit.com/@eoseco2018",
+      "twitter": "https://twitter.com/Eoseco2018",
+      "facebook": "https://www.facebook.com/eoseco2018",
+      "github": "https://github.com/Eoseco",
+      "telegram": "http://t.me/eoseco2018",
+      "youtube": "",
+      "reddit": "",
+      "keybase": "https://keybase.io/eoseco",
+      "wechat": "Eoseco"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "name": "Tokyo",
+        "country": "Japan",
+        "latitude": 34.8,
+        "longitude": 138.4
+      },
+      "is_producer": true,
+      "p2p_endpoint": "mainnet.eoseco.com:10010",
+      "api_endpoint": "https://api.eoseco.com",
+      "ssl_endpoint": "https://api.eoseco.com"
+    }
+  ]
+}
