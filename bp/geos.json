@@ -1,0 +1,46 @@
+{
+  "producer_account_name": "geosoneforbp",
+  "producer_public_key": "EOS7CjPeMYUj2Ydmw667JJNsQA5mige9YE4FVxMCT81Jst3SRVbX3",
+  "org": {
+    "candidate_name": "GEOS",
+    "website": "https://www.geos.one",
+    "code_of_conduct":"",
+    "email":"geos.one@wichain.net",
+    "branding":{
+      "logo_256":"https://www.geos.one/images/logo-256.png",
+      "logo_1024":"https://www.geos.one/images/logo-1024.png",
+      "logo_svg":"https://www.geos.one/images/logo-svg.svg"
+    },
+    "location": {
+      "name": "Singapore",
+      "country": "Singapore",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social": {
+      "steemit": "https://steemit.com/@geos.one",
+      "twitter": "https://twitter.com/geos_team",
+      "youtube": "",
+      "facebook": "",
+      "github":"",
+      "reddit": "",
+      "keybase": "",
+      "telegram": "https://t.me/GDEXer",
+      "wechat":"GEOS_one"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "name": "GEOS",
+        "country": "Japan",
+        "latitude": 0,
+        "longitude": 0
+      },
+      "is_producer": false,
+      "p2p_endpoint": "bp.geos.one:80",
+      "api_endpoint": "",
+      "ssl_endpoint": "https://bp.geos.one"
+    }
+  ]
+}
